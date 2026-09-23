@@ -34,7 +34,6 @@ Create a Jenkins job that automatically performs the following tasks on an Amazo
 Jenkins-HTTPD-HTTPS-Assignment/
 │
 ├── README.md
-├── Jenkinsfile
 ├── install-httpd-https.sh
 ├── index.html
 ├── .gitignore
